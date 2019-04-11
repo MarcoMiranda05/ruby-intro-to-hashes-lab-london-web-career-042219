@@ -1,5 +1,5 @@
 def new_hash
-	test = Hash.new { |hash, key| hash[key] =  }
+	test = Hash.new 
 end
 
 def actor
