@@ -1,9 +1,9 @@
 def new_hash
 	test = Hash.new
 end
-	test = {"name": "Dwayne The Rock Johnson"}
-def actor
 
+def actor
+	test = {"name": "Dwayne The Rock Johnson"}
 end
 
 def monopoly
