@@ -1,7 +1,7 @@
 def new_hash
-	test = Hash.new 
+	test = Hash.new
 end
-
+	test = {"name": "Dwayne The Rock Johnson"}
 def actor
 
 end
